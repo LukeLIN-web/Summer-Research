@@ -1,0 +1,9 @@
+一般用benchmark data 做实验，测试A B C D四个模型，
+然后以结果最差的一个模型，假设是C，作为baseline，看看其他模型相对C提高了多少。
+
+need to add definitions of centralized/distributed logging
+major differences
+one is superior than the other?
+or depends on scenarios(方案)
+
+需要说明这个adoption，且不trigger读者任何对于 centralized logging有什么不如distributed logging的想法

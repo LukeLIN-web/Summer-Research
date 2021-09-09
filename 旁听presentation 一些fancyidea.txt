@@ -1,0 +1,7 @@
+Out of execution
+transient state -> stabilized state
+cache attack
+旁路攻击, 
+分支预测.
+可以看的书: cs61c和mit6.s081
+看那个riscv的计组书，还有operation system concepts，还有一本书csapp
